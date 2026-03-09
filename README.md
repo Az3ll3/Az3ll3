@@ -90,6 +90,7 @@ me = Hackr()
 
 ---
 
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=99999&color=FF2079&vCenter=true&width=340&height=30&lines=%24+neofetch+--github-stats" alt="heading"/>
 
 <div align="center">
 
@@ -135,7 +136,6 @@ Self Belief          █████████████
 
 <div align="center">
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=99999&color=FF2079&vCenter=true&width=340&height=30&lines=%24+neofetch+--github-stats" alt="heading"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=80&section=footer&fontColor=00ff41" />
 
