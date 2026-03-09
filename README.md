@@ -18,14 +18,30 @@
 
 ---
 
-# `$ whoami`
-
-<img align="right" width="250" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=200&color=00FF41&vCenter=true&multiline=true&repeat=false&width=520&height=200&lines=%24+whoami;+→+Az3ll3+|+Hackr+|+She/Her;+;%24+cat+status.txt;+→+Founder-in-progress;+;%24+cat+focus.txt;+→+AI-Augmented+Offensive+Security;+;%24+cat+strategy.txt;+→+Long+game.+Calculated+risk.+Zero+noise."/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=99999&color=FF2079&vCenter=true&width=320&height=30&lines=%24+whoami+--+identity.conf" alt="heading"/>
+<img align="right" width="260" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" style="border-radius:8px"/>
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   $ whoami                                              │
+│   → Az3ll3  |  Hackr  |  She/Her                       │
+│                                                         │
+│   $ cat status.txt                                      │
+│   → Founder-in-progress 🏗️  |  AI-Augmented OffSec     │
+│                                                         │
+│   $ cat vision.txt                                      │
+│   → Build something that outlasts                       │
+│     the version of me that built it.                    │
+│                                                         │
+│   $ cat strategy.txt                                    │
+│   → Long game. Calculated risk. Zero noise.             │
+│                                                         │
+│   [!] She knows what she's doing.                       │
+│   [!] She also knows what YOU'RE doing. 💀              │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
 <br clear="right"/>
-
 ---
 
 # `$ cat quotes.txt`
@@ -49,10 +65,6 @@ drwxr-xr-x  infrastructure/
 
 <br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat\&logo=gnu-bash)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=cplusplus)
 
 ---
 
