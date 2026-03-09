@@ -124,8 +124,6 @@ Self Belief          █████████████
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-hackrgirl787%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:hackrgirl787@gmail.com)
-
 [![YouTube](https://img.shields.io/badge/YouTube-Watch%20%26%20Learn-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://youtube.com/channel/UClkdDQB3WA8m2MGi1RPFCgg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40Az3ll3-181717?style=for-the-badge\&logo=github)](https://github.com/Az3ll3)
