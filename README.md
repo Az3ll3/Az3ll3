@@ -47,8 +47,7 @@
 
 ---
 
-## `> ls -la skills/`
-
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=99999&color=FF2079&vCenter=true&width=280&height=30&lines=%3E+ls+-la+skills%2F" alt="heading"/>
 ```
 drwxr-xr-x  offensive/
 drwxr-xr-x  languages/
@@ -61,7 +60,7 @@ drwxr-xr-x  infrastructure/
 
 ---
 
-# `$ python3 me.py`
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=99999&color=FF2079&vCenter=true&width=280&height=30&lines=%24+python3+me.py" alt="heading"/>
 
 <img align="right" width="250" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
 
@@ -107,7 +106,7 @@ me = Hackr()
 
 ---
 
-# `$ cat /proc/current_mission`
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=99999&color=FF2079&vCenter=true&width=380&height=30&lines=%24+cat+%2Fproc%2Fcurrent_mission" alt="heading"/>
 
 ```
 OPERATION: BUILD THE EMPIRE
@@ -120,7 +119,7 @@ Self Belief          █████████████
 
 ---
 
-# `$ ping hackr Az3ll3`
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=99999&color=FF2079&vCenter=true&width=280&height=30&lines=%24+ping+--hackrAz3ll3" alt="heading"/>
 
 <div align="center">
 
@@ -137,7 +136,8 @@ Self Belief          █████████████
 <div align="center">
 
 ```
-[ SYSTEM STATUS: ONLINE ] [ THREAT LEVEL: ETHICAL ] [ COFFEE: REQUIRED ]
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=99999&color=FF2079&vCenter=true&width=340&height=30&lines=%24+neofetch+--github-stats" alt="heading"/>
+
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=80&section=footer&fontColor=00ff41" />
