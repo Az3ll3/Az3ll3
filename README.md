@@ -81,23 +81,15 @@ class Hackr:
 
 me = Hackr()
 
-# >>> she didn't come this far to only come this far
 ```
 
 <br clear="right"/>
 
 ---
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=99999&color=00FF41&vCenter=true&width=340&height=30&lines=%24+neofetch+--github-stats" alt="heading"/>
 
 <div align="center">
 
-<a href="https://github.com/Az3ll3">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Az3ll3&show_icons=true&count_private=true&theme=merko&bg_color=0d0d0d&border_color=FF2079&title_color=FF2079&icon_color=00ff41&text_color=ccffcc&border_radius=10&cache_seconds=1800" />
-</a>
-<a href="https://github.com/Az3ll3">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Az3ll3&layout=compact&theme=merko&bg_color=0d0d0d&border_color=FF2079&title_color=FF2079&text_color=ccffcc&border_radius=10&langs_count=6&cache_seconds=1800" />
-</a>
 
 <br/>
 
@@ -124,7 +116,7 @@ Self Belief          █████████████
 
 ---
 
-# `$ ping --social`
+# `$ ping hackr Az3ll3`
 
 <div align="center">
 
