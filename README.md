@@ -17,11 +17,9 @@
 </div>
 
 ---
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=99999&color=FF2079&vCenter=true&width=320&height=30&lines=%24+whoami+--+identity.conf" alt="heading"/>
 <img align="right" width="260" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" style="border-radius:8px"/>
 ```
-
 ┌─────────────────────────────────────────────────────────┐
 │                                                         │
 │   $ whoami                                              │
@@ -41,18 +39,8 @@
 │   [!] She also knows what YOU'RE doing. 💀              │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
-
 ```
 <br clear="right"/>
----
-
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&pause=3000&color=BF5FFF&center=true&vCenter=true&width=820&height=50&lines=Security+is+not+a+product+but+a+process.;Build+in+silence.+Let+the+commit+history+speak.;In+a+world+full+of+scripts+be+the+exploit.;Move+fast+but+know+why+you're+moving."/>
-
-</div>
-
 ---
 
 ## `> ls -la skills/`
@@ -100,17 +88,24 @@ me = Hackr()
 
 ---
 
-# `$ neofetch --github-stats`
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=99999&color=00FF41&vCenter=true&width=340&height=30&lines=%24+neofetch+--github-stats" alt="heading"/>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Az3ll3&show_icons=true&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Az3ll3">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Az3ll3&show_icons=true&count_private=true&theme=merko&bg_color=0d0d0d&border_color=FF2079&title_color=FF2079&icon_color=00ff41&text_color=ccffcc&border_radius=10&cache_seconds=1800" />
+</a>
+<a href="https://github.com/Az3ll3">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Az3ll3&layout=compact&theme=merko&bg_color=0d0d0d&border_color=FF2079&title_color=FF2079&text_color=ccffcc&border_radius=10&langs_count=6&cache_seconds=1800" />
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Az3ll3&layout=compact&theme=tokyonight&hide_border=true"/>
+<br/>
 
-<br>
+<img src="https://streak-stats.demolab.com/?user=Az3ll3&theme=dark&background=0d0d0d&border=FF2079&ring=FF2079&fire=ff6600&currStreakLabel=FF2079&sideLabels=00ff41&dates=888888&sideNums=ffffff&currStreakNum=ffffff" />
 
-<img src="https://streak-stats.demolab.com/?user=Az3ll3&theme=tokyonight&hide_border=true"/>
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Az3ll3&bg_color=0d0d0d&color=00ff41&line=FF2079&point=ffffff&area=true&area_color=1a0020&border_color=FF2079&radius=5" width="95%" />
 
 </div>
 
