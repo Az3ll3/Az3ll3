@@ -17,9 +17,12 @@
 </div>
 
 ---
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=99999&color=FF2079&vCenter=true&width=320&height=30&lines=%24+whoami+--+identity.conf" alt="heading"/>
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=99999&color=FF2079&vCenter=true&width=320&height=30&lines=%24+whoami+--+identity.conf" alt="heading"/>
+
 <img align="right" width="260" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" style="border-radius:8px"/>
-```
+
+<div>
+<pre>
 ┌─────────────────────────────────────────────────────────┐
 │                                                         │
 │   $ whoami                                              │
@@ -39,6 +42,10 @@
 │   [!] She also knows what YOU'RE doing. 💀              │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
+</pre>
+</div>
+
+<br clear="right"/>
 ```
 <br clear="right"/>
 ---
