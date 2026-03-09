@@ -10,7 +10,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Az3ll3\&color=FF2079\&style=for-the-badge)
  
-![Status](https://img.shields.io/badge/STATUS-THAT_GIRL-FF2079?style=for-the-badge)
+![Status](https://img.shields.io/badge/STATUS-Unbothered-Hackr-FF2079?style=for-the-badge)
  
 ![Mode](https://img.shields.io/badge/MODE-FOUNDER-00ff41?style=for-the-badge)
 
