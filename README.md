@@ -44,8 +44,7 @@
 </div>
 
 <br clear="right"/>
-```
-<br clear="right"/>
+
 ---
 
 ## `> ls -la skills/`
@@ -137,10 +136,15 @@ Self Belief          █████████████
 
 <div align="center">
 
-![mode](https://img.shields.io/badge/FOUNDER_MODE-ACTIVE-00ff41?style=for-the-badge)
-![building](https://img.shields.io/badge/BUILDING-YES-FF2079?style=for-the-badge)
-![discipline](https://img.shields.io/badge/DISCIPLINE-MAX-BF5FFF?style=for-the-badge)
+```
+[ SYSTEM STATUS: ONLINE ] [ THREAT LEVEL: ETHICAL ] [ COFFEE: REQUIRED ]
+```
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=80&section=footer&fontColor=00ff41" />
+
+*"The quieter you become, the more you are able to hear."* 🐈‍⬛
+
+</div>
 <br><br>
 
 observe the system • understand the weakness • build the exploit
