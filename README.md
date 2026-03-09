@@ -38,17 +38,14 @@
 
 ---
 
-# `$ ls ~/skills`
+## `> ls -la skills/`
 
-## 🧠 Core Arsenal
-
-| Domain             | 
-| ------------------ | 
-| Offensive Security | 
-| Languages (Python • C++ • Bash )     
-| Systems            | 
-| Networking         | 
-| Automation         |
+```
+drwxr-xr-x  offensive/
+drwxr-xr-x  languages/
+drwxr-xr-x  infrastructure/
+-rwxr-xr-x  creativity.exe
+```
 
 <br>
 
