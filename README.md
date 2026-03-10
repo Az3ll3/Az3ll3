@@ -83,10 +83,9 @@ class Hackr:
 me = Hackr()
 
 ```
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=99999&color=FF2079&vCenter=true&width=340&height=30&lines=%24+neofetch+--github-stats" alt="heading"/>
 
 <div align="center">
-
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=99999&color=FF2079&vCenter=true&width=340&height=30&lines=%24+neofetch+--github-stats" alt="heading"/>
 
 <br/>
 
