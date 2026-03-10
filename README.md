@@ -134,6 +134,4 @@ Self Belief          █████████████
 
 *"The quieter you become, the more you are able to hear."* 🐈‍⬛
 
-<p align="center">
-<sub>crafted with 💖 by Hackr Az3ll3</sub>
-</p>
+<h3 align="center">Made with 💖 by Hackr Az3ll3</h3>
