@@ -101,7 +101,8 @@ me = Hackr()
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Az3ll3&theme=github-compact&hide_border=true" />
+<img src="https://ghchart.rshah.org/Az3ll3" />
+
 </div>
 
 ---
