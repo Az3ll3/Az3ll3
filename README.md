@@ -88,6 +88,12 @@ me = Hackr()
 
 <div align="center">
 
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Az3ll3&theme=rose_pine)
+
+</div>
+
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=Az3ll3&theme=dark&background=0d0d0d&border=FF2079&ring=FF2079&fire=ff6600&currStreakLabel=FF2079&sideLabels=00ff41&dates=888888&sideNums=ffffff&currStreakNum=ffffff" />
@@ -98,12 +104,6 @@ me = Hackr()
 
 </div>
 
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Az3ll3&theme=rose_pine)
-
-</div>
 
 ---
 
