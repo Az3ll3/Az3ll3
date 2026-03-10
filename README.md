@@ -96,11 +96,6 @@ me = Hackr()
 
 <br/>
 
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Az3ll3&theme=rose_pine)
-
-</div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Az3ll3&bg_color=0d0d0d&color=00ff41&line=FF2079&point=ffffff&area=true&area_color=1a0020&border_color=FF2079&radius=5" width="95%" />
 
