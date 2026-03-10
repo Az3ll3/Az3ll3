@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d0d0d,50:FF2079,100:000000&text=Az3ll3&fontSize=70&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=find%20a%20way%20not%20an%20excuse&descSize=20&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d0d0d,50:FF2079,100:000000&text=%24%20hackr💀Az3ll3&fontSize=60&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=echo%20%22Find%20a%20way,%20not%20an%20excuse%22&descSize=20&descAlignY=60"/>
 
 <br/>
 
