@@ -88,6 +88,8 @@ me = Hackr()
 
 <div align="center">
 
+## 📊 GitHub Stats
+
 <div align="center">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Az3ll3&theme=rose_pine)
