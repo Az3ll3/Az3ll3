@@ -24,17 +24,15 @@
 ┌─────────────────────────────────────────────────────────┐
 │                                                         │
 │   $ whoami                                              │
-│   → Az3ll3  |  Hackr  |  She/Her                       │
+│   → Az3ll3  |  Hackr  |  She/Her                        │
 │                                                         │
 │   $ cat status.txt                                      │
-│   → Founder-in-progress 🏗️  |  AI-Augmented OffSec     │
+│   → Founder-in-progress      |  AI-Augmented OffSec     │
 │                                                         │
 │   $ cat vision.txt                                      │
 │   → Build something that outlasts                       │
 │     the version of me that built it.                    │
 │                                                         │
-│   $ cat strategy.txt                                    │
-│   → Long game. Calculated risk. Zero noise.             │
 │                                                         │
 │   [!] She knows what she's doing.                       │
 │   [!] She also knows what YOU'RE doing. 💀              │
@@ -136,9 +134,6 @@ Self Belief          █████████████
 
 *"The quieter you become, the more you are able to hear."* 🐈‍⬛
 
-</div>
-<br><br>
-
-observe the system • understand the weakness • build the exploit
-
-</div>
+<p align="center">
+<sub>crafted with 💖 by Hackr Az3ll3</sub>
+</p>
