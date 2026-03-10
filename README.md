@@ -86,36 +86,18 @@ me = Hackr()
 
 ```
 
-<br clear="right"/>
-
----
-
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=99999&color=FF2079&vCenter=true&width=340&height=30&lines=%24+neofetch+--github-stats" alt="heading"/>
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Az3ll3&show_icons=true&theme=rose_pine&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=ffffff00"/>
+<br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Az3ll3&layout=compact&theme=rose_pine&title_color=ff69b4&text_color=ffffff&bg_color=ffffff00"/>
+<img src="https://streak-stats.demolab.com/?user=Az3ll3&theme=dark&background=0d0d0d&border=FF2079&ring=FF2079&fire=ff6600&currStreakLabel=FF2079&sideLabels=00ff41&dates=888888&sideNums=ffffff&currStreakNum=ffffff" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Az3ll3&bg_color=0d0d0d&color=00ff41&line=FF2079&point=ffffff&area=true&area_color=1a0020&border_color=FF2079&radius=5" width="95%" />
 
 </div>
 
----
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Az3ll3&theme=rose_pine&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&background=ffffff00"/>
-
-</div>
-
----
-
-<div align="center">
-
-[![Az3ll3 Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Az3ll3&theme=tokyo-night&bg_color=ffffff00&color=ff69b4&line=ff69b4&point=ff69b4)](https://github.com/Az3ll3)
-
-</div>
-
----
 
 <div align="center">
 
