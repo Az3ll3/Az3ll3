@@ -88,19 +88,19 @@ me = Hackr()
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Az3ll3&theme=rose_pine)
-
-</div>
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=99999&color=FF2079&vCenter=true&width=340&height=30&lines=%24+neofetch+--github-stats" alt="heading"/>
 
 <br/>
 
 <img src="https://streak-stats.demolab.com/?user=Az3ll3&theme=dark&background=0d0d0d&border=FF2079&ring=FF2079&fire=ff6600&currStreakLabel=FF2079&sideLabels=00ff41&dates=888888&sideNums=ffffff&currStreakNum=ffffff" />
 
 <br/>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Az3ll3&theme=rose_pine)
+
+</div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Az3ll3&bg_color=0d0d0d&color=00ff41&line=FF2079&point=ffffff&area=true&area_color=1a0020&border_color=FF2079&radius=5" width="95%" />
 
