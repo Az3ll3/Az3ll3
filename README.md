@@ -98,8 +98,6 @@ me = Hackr()
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Az3ll3&theme=2077" width="95%"/>
-
 </div>
 
 
