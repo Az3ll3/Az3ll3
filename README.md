@@ -88,29 +88,17 @@ me = Hackr()
 
 <div align="center">
 
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Az3ll3&theme=dark&background=0d0d0d&border=FF2079&ring=FF2079&fire=ff6600&currStreakLabel=FF2079&sideLabels=00ff41&dates=888888&sideNums=ffffff&currStreakNum=ffffff" />
-
-<br/>
-
-
-<div align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Az3ll3&theme=2077" width="48%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Az3ll3&theme=2077&utcOffset=5" width="48%"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Az3ll3&theme=2077" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Az3ll3&theme=2077" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Az3ll3&theme=2077" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Az3ll3&theme=2077" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=Az3ll3&theme=dark&background=0d0d0d&border=FF2079&ring=FF2079&fire=ff6600&currStreakLabel=FF2079&sideLabels=00ff41&dates=888888&sideNums=ffffff&currStreakNum=ffffff&hide_longest_streak=false" width="48%"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Az3ll3&theme=dark&background=0d0d0d&border=FF2079&ring=FF2079&fire=ff6600&currStreakLabel=FF2079&sideLabels=00ff41&dates=888888&sideNums=ffffff&currStreakNum=ffffff" />
-
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Az3ll3&theme=2077" width="95%"/>
 
 </div>
 
