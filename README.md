@@ -71,7 +71,7 @@ class Hackr:
         self.role = "Security Researcher"
         self.building = "AI-Augmented OffSec tools"
         self.focus = ["Python", "Security Research", "Automation"]
-        self.mindset = "long game, calculated risk"
+        self.mindset = "Jus a game and imma main character! 😜"
 
     def daily_loop(self):
         while True:
@@ -111,7 +111,7 @@ OPERATION: BUILD THE EMPIRE
 AI OffSec Research   ███████████░░
 Python Mastery       █████████░░░░
 Ethical Hacking      ███████████░░
-Self Belief          █████████████
+enjoying the moment  █████████████
 ```
 
 ---
