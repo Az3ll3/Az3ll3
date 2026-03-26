@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1200&color=00FF41&center=true&vCenter=true&width=700&lines=Hacking+is+not+a+crime,+Stupidity+is.;AI-Augmented+OffSec,+Gray+Hat+Hackr,+AI+OffSec;Obsession+can+beat+experience.;Founder/entrepreneuer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1200&color=00FF41&center=true&vCenter=true&width=700&lines=Hacking+is+not+a+crime,+Stupidity+is.;AI-Augmented+OffSec,+Gray+Hat+Hackr,+AI+Security;she+knows+why+she's+doing+what+she+do;Founder/entrepreneuer"/>
 
 <br/>
 
