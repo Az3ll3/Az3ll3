@@ -17,7 +17,7 @@ Cybersecurity engineer focused on infrastructure security, SIEM automation, and 
 ## Stack
 
 ```txt
-Python • Bash • Linux • Git • GitHub
+C++ • Python • Bash • Linux • Git • GitHub
 Wazuh • n8n • Azure • Cisco Networking
 CCNA • CCNP • AWS • CEH • OCI DevOps Professional • OCI Networking Professional
 Kali Linux • Ubuntu • Rocky Linux • Parrot 
