@@ -3,12 +3,12 @@
 ### Cybersecurity Engineer | Network & Cloud Security
 
 Cybersecurity engineer focused on infrastructure security, SIEM automation, and cloud environments.
-![Profile Views](https://komarev.com/ghpvc/?username=Az3ll3\&color=FF2079\&style=for-the-badge)
 
 <br>
 
 [![Email](https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:wajihaarif.css@gmail.com)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Yuriiiii-red?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/)
+![Profile Views](https://komarev.com/ghpvc/?username=Az3ll3\&color=FF2079\&style=for-the-badge)
 
 </div>
 
