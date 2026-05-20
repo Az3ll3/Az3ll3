@@ -2,7 +2,7 @@
 
 ### Cybersecurity Engineer | Network & Cloud Security
 
-Cybersecurity engineer focused on infrastructure security, SIEM automation, and cloud environments.
+Cybersecurity engineer focused on infrastructure connectivity, security and cloud environments.
 
 <br>
 
